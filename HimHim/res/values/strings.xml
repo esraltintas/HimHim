@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HimHim</string>
+    <color name="opaque_red">#f00</color>
+    <string name="action_settings">Settings</string>
+    <string name="merhaba">SilimCinim</string>
+    <string name="resimaciklama">Resimde tatlı bir ayıcık var</string>
+    
+
+</resources>
